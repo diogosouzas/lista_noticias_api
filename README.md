@@ -1,7 +1,7 @@
 # api_lista_noticias
  Api necessária para utilização do app Lista de Notícias
  
-##Importante
+## Importante
 
 1- Em app/src/main/java/br/com/sdiogo/listanoticias/retrofit/AppRetrofit -> Configure o a val BASE_URL = "http://seuEnderecoDeIP:8080/"
 
